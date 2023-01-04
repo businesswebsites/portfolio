@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.c3d427a0.css",
-    "main.js": "/portfolio/static/js/main.b1b93ee1.js",
+    "main.js": "/portfolio/static/js/main.08a40aab.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/reactjs_code.jpg": "/portfolio/static/media/reactjs_code.861ddee1058b23ed1a22.jpg",
     "static/media/fitness.png": "/portfolio/static/media/fitness.99fb0a2dbb5b4e9a592e.png",
@@ -11,6 +11,7 @@
     "static/media/grieche 3.png": "/portfolio/static/media/grieche 3.46acb6dd80ba3150015d.png",
     "static/media/grieche 4.png": "/portfolio/static/media/grieche 4.3d9aa0335f257bfb151a.png",
     "static/media/grieche 6.png": "/portfolio/static/media/grieche 6.860b309d305559f51ebe.png",
+    "static/media/netflix.png": "/portfolio/static/media/netflix.afe8e9a0eb02b0dc7679.png",
     "static/media/wetterapp.png": "/portfolio/static/media/wetterapp.360fb4bbe4e245bc6c25.png",
     "static/media/papa_webseite.png": "/portfolio/static/media/papa_webseite.7eb045560987cad812ca.png",
     "static/media/responsive_design.png": "/portfolio/static/media/responsive_design.59588c176a3a0b6e8597.png",
@@ -19,11 +20,11 @@
     "static/media/four.png": "/portfolio/static/media/four.6b41134d38d1b901667b.png",
     "index.html": "/portfolio/index.html",
     "main.c3d427a0.css.map": "/portfolio/static/css/main.c3d427a0.css.map",
-    "main.b1b93ee1.js.map": "/portfolio/static/js/main.b1b93ee1.js.map",
+    "main.08a40aab.js.map": "/portfolio/static/js/main.08a40aab.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c3d427a0.css",
-    "static/js/main.b1b93ee1.js"
+    "static/js/main.08a40aab.js"
   ]
 }
