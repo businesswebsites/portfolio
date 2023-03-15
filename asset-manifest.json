@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.848f5827.css",
-    "main.js": "/portfolio/static/js/main.d53b1989.js",
+    "main.js": "/portfolio/static/js/main.87c3e6e6.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/reactjs_code.jpg": "/portfolio/static/media/reactjs_code.861ddee1058b23ed1a22.jpg",
     "static/media/fitness.png": "/portfolio/static/media/fitness.99fb0a2dbb5b4e9a592e.png",
@@ -17,8 +17,8 @@
     "static/media/responsive_design.png": "/portfolio/static/media/responsive_design.59588c176a3a0b6e8597.png",
     "static/media/ref_list.png": "/portfolio/static/media/ref_list.b09a70101ad350e4573f.png",
     "static/media/postpartale depression.png": "/portfolio/static/media/postpartale depression.53e8d7533c747caa463f.png",
+    "static/media/neu ich.png": "/portfolio/static/media/neu ich.62c71fb0067d89642a13.png",
     "static/media/klassifikationen.png": "/portfolio/static/media/klassifikationen.6f44692c53959d9faf7a.png",
-    "static/media/ich.png": "/portfolio/static/media/ich.03b2dba5957d88eab252.png",
     "static/media/indexierung.png": "/portfolio/static/media/indexierung.58cb4fd8d27dd255053f.png",
     "static/media/web-scraping-with-python.png": "/portfolio/static/media/web-scraping-with-python.53400533e87dd991b333.png",
     "static/media/awmf_suche.png": "/portfolio/static/media/awmf_suche.f06b0705968aac2d90b7.png",
@@ -28,11 +28,11 @@
     "static/media/todo.png": "/portfolio/static/media/todo.f4d03174cf5b572cb539.png",
     "index.html": "/portfolio/index.html",
     "main.848f5827.css.map": "/portfolio/static/css/main.848f5827.css.map",
-    "main.d53b1989.js.map": "/portfolio/static/js/main.d53b1989.js.map",
+    "main.87c3e6e6.js.map": "/portfolio/static/js/main.87c3e6e6.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.848f5827.css",
-    "static/js/main.d53b1989.js"
+    "static/js/main.87c3e6e6.js"
   ]
 }
